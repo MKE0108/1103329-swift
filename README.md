@@ -1,2 +1,3 @@
-# 1103329-swift
-![image]("https://raw.githubusercontent.com/MKE0108/main/hw1/gcj_star230505.gif")
+# 1103329-yzu-swift-repo
+## HW1個人簡介
+[hw1](https://github.com/MKE0108/1103329-swift/blob/main/hw1/hw1.md)
