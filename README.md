@@ -1,2 +1,2 @@
 # 1103329-swift
-![image]("https://raw.githubusercontent.com/MKE0108/main/hw1/gcj_star230505.gif")
+!https://github.com/MKE0108/1103329-swift/blob/main/hw1/gcj_star230505.gif?raw=true
