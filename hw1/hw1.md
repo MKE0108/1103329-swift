@@ -1,6 +1,6 @@
-# hw1
+# hw2
 
-![圖片](https://github.com/MKE0108/1103329-swift/blob/main/hw1/p1.jpeg?raw=true)
+[![Watch the video](https://github.com/MKE0108/1103329-swift/blob/main/hw2/v.)](https://youtube.com/shorts/XbWls7c65Lk)
 
 ```swift
 import SwiftUI
