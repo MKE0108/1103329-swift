@@ -1,6 +1,6 @@
 # hw1
 
-![圖片](https://github.com/MKE0108/1103329-swift/blob/main/hw1/gcj_star230505.gif?raw=true)
+![圖片](https://github.com/MKE0108/1103329-swift/blob/main/hw1/p1.jpeg?raw=true)
 
 ```swift
 import SwiftUI
