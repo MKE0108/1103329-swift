@@ -1,6 +1,6 @@
-# hw1
-
-![圖片](https://github.com/MKE0108/1103329-swift/blob/main/hw2/v.MP4?raw=true)
+# hw2
+## 影片
+[![圖片](https://github.com/MKE0108/1103329-swift/blob/main/hw2/v.png?raw=true)](https://www.youtube.com/shorts/XbWls7c65Lk)
 
 ```swift
 import SwiftUI
