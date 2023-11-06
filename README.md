@@ -6,4 +6,4 @@
 ## HW3收藏櫃
 [hw3](https://github.com/MKE0108/1103329-swift/blob/main/hw3/hw3.md)
 ## 1030bonus
-[hw3](https://github.com/MKE0108/1103329-swift/blob/main/1030bonus/1030bonus.md)
+[1030bonus](https://github.com/MKE0108/1103329-swift/blob/main/1030bonus/1030bonus.md)
