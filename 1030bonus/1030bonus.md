@@ -1,6 +1,7 @@
 # hw3
 ## 圖片
 ![圖片](https://github.com/MKE0108/1103329-swift/blob/main/1030bonus/A.PNG?raw=true)
+## Code
 ```swift
 //
 //  ContentView.swift
