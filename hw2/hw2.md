@@ -1,7 +1,7 @@
 # hw2
 ## 影片
 [![圖片](https://github.com/MKE0108/1103329-swift/blob/main/hw2/v.png?raw=true)](https://www.youtube.com/shorts/XbWls7c65Lk)
-
+## Code
 ```swift
 import SwiftUI
 var 剪刀 = "✌️"
